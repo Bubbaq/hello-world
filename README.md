@@ -1,2 +1,5 @@
 # hello-world
-Just another repositary
+
+Hi!
+
+Just starting out with GitHub to figure out how it works!
